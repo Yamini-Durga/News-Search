@@ -15,8 +15,8 @@ export class NewsSearchService {
     const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '39a8186ddfmsh037756d8aba7915p1af440jsn9f50e52742ad',
-        'X-RapidAPI-Host': 'contextualwebsearch-websearch-v1.p.rapidapi.com'
+        'X-RapidAPI-Key': 'api-key',
+        'X-RapidAPI-Host': 'api-host'
       }
     };
   
